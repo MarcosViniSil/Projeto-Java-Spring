@@ -135,9 +135,6 @@ public class Game {
 	}
 
 
-
-
-
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
